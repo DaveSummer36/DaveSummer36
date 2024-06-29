@@ -5,5 +5,5 @@
 - 📫 How to reach me: 
 Email: nyaridavid345@gmail.com
 <a href="https://app.daily.dev/davesummer36">
-  <img src="https://api.daily.dev/devcards/v2/k4Twib6jVGp5XE"
+  <img src="https://api.daily.dev/devcards/v2/k4Twib6jVGp5XEVmENNHi.png?type=default&r=mrf" width="356" alt="Dave Summer's Dev Card" />
 </a>
